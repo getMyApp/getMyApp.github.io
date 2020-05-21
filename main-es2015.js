@@ -32,7 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"home\">\n  <div class=\"headerr\">\n    <!-- Get My App -->\n    <img class=\"headerImg\" src=\"../assets/h2.png\" alt=\"img\">\n  </div>\n  <div class=\"placeholder\">\n    <p class=\"comSoon\">Website Coming Soon. Contact us for catalogue!</p>\n    <div role=\"button\" class=\"conBut\" (click)=\"contactUs()\">\n      <img class=\"buttonImg\" src=\"../assets/cnt.png\" alt=\"img\">\n      <!-- <b>Contact Us</b> -->\n    </div>\n    <div role=\"button\" class=\"conBut\" (click)=\"openDemo()\">\n      <img class=\"buttonImg\" src=\"../assets/dem.png\" alt=\"img\">  \n    </div>\n  </div>\n  <div class=\"crt\">\n    <p>&copy; Soumyadip Chattopadhyay. 2020.</p>\n  </div>\n</div>");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"home\">\n  <div class=\"headerr\">\n    <!-- Get My App -->\n    <img class=\"headerImg\" src=\"../assets/h3.png\" alt=\"img\">\n  </div>\n  <div class=\"placeholder\">\n    <p class=\"comSoon\">Website Coming Soon. Contact us for catalogue!</p>\n    <div role=\"button\" class=\"conBut\" (click)=\"contactUs()\">\n      <img class=\"buttonImg\" src=\"../assets/cnt.png\" alt=\"img\">\n      <!-- <b>Contact Us</b> -->\n    </div>\n    <div role=\"button\" class=\"conBut\" (click)=\"openDemo()\">\n      <img class=\"buttonImg\" src=\"../assets/dem.png\" alt=\"img\">  \n    </div>\n  </div>\n  <div class=\"crt\">\n    <p>&copy; Soumyadip Chattopadhyay. 2020.</p>\n  </div>\n</div>");
 
 /***/ }),
 
